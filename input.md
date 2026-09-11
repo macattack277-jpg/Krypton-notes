@@ -2,7 +2,7 @@
 
 ## About
 
-Disclaimer: AI was used in the making of this .md file, mainly for formatting purposes. It was written by me.
+Disclaimer: AI was used in the making of this .md file, mainly for formatting purposes. The writing remains 90% organic and accurately reflects my experience in completing this WarGame.
 
 I really didn't know what to expect of this WarGame as there is no information about it on OverTheWire's page. From discussions I've heard in Discord servers and such, it apparently involves cryptography. Let's do it!
 
